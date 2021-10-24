@@ -1,0 +1,81 @@
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    vertical-align: middle;
+    background-color: black;
+    border-radius: 50%;
+    margin-right: 5px;
+    border: solid 2px;
+}
+
+#canvas{
+    left: 50%;
+    top: 100px;
+    position: relative;
+    border-color: black;
+    border: solid 5px;
+}
+
+#red{
+    background-color: red;
+}
+
+#green{
+    background-color: lime;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#cyan{
+    background-color: cyan;
+}
+
+#maron{
+    background-color: maroon;
+}
+
+#olive{
+    background-color: olive;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#black{
+    background-color: black;
+}
+
+#tomato{
+    background-color: tomato;
+}
+
+#hotpink{
+    background-color: hotpink;
+}
+
+#purple{
+    background-color: purple;
+}
+
+#magenta{
+    background-color: magenta;
+}
+
+button{
+    background-color: darkgray;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-top: 50px;
+    font-size: xx-large;
+}
